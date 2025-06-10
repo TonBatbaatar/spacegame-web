@@ -2,7 +2,7 @@ trigger:
   - '*'
 
 pool:
-  vmImage: ubantu-latest
+  vmImage: ubuntu-latest
   demands:
     - npm
 
